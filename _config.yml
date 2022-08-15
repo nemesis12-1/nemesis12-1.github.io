@@ -2,7 +2,7 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: Ashutosh Sahu | Portfolio
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
@@ -14,7 +14,7 @@ baseurl: ""
 username: Ashutosh Sahu
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Aspiring Develepor 
+typing_text: Aspiring Developer
 # email: Your E-Mail address for the email button.
 email: ashusahu145@gmail.com
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description:  Somtihng 
+about_me_description: An independent and self-motivated graduate who has a keen interest in developing and gaining professional skills. 
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
@@ -80,12 +80,12 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description: 
 
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: 
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
